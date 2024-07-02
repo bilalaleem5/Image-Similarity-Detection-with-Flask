@@ -27,11 +27,7 @@ pip install Flask numpy opencv-python datasketch
 Installation
 Clone the Repository
 
-sh
-Copy code
-git clone https://github.com/yourusername/image-similarity-flask.git
-cd image-similarity-flask
-Install Dependencies
+
 
 sh
 Copy code
